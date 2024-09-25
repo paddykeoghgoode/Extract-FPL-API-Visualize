@@ -4,6 +4,8 @@
 
 This repository contains scripts to extract data from the Fantasy Premier League (FPL) API and visualize player performance using **Expected Goal Involvement (xGI)**, **Actual Goals + Assists**, and **Over/Underperformance** metrics. The goal is to help FPL enthusiasts analyze key performance metrics to make informed decisions.
 
+If using this, please link back to www.attackingfootball.com
+
 The project also includes custom watermark functionality to add branding to the visualizations.
 
 ## Features
